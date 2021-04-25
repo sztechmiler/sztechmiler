@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sztechmiler
+- 👋 Hi, I’m Gre @sztechmiler
 - 👀 I’m interested in software development and automations, especially with MS Power Platform and .Net
 - 💞️ I’m looking to collaborate on quick project to show financial statements of companies e.g. one you are negotaiation with or being interviewed by
 
