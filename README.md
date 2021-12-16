@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gre @sztechmiler
+- 👋 Hi, I’m Greg @sztechmiler
 - 👀 I’m interested in software development especially wth C#, ASP.Net and React.js
 <!---
 sztechmiler/sztechmiler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
